@@ -1,5 +1,8 @@
 # Neural-Network-HW3
 
+Student Name : Yeshwanth Narige  
+ID : 700764035
+
 # Autoencoder for MNIST Digit Reconstruction 
 
 This project implements a simple fully connected autoencoder using TensorFlow/Keras to reconstruct images from the MNIST dataset. The autoencoder compresses 28x28 grayscale images (flattened to 784-dimensional vectors) into a smaller latent space and learns to reconstruct them. 
